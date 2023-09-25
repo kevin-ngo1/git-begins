@@ -1,6 +1,8 @@
+Ajouter wsl à chaque début de commande si on est sur le shell Windows
 git clone url
 
 git add . ou git add nom
 git commit -m "Texte"
 git push -u origin main
+git pull
 
